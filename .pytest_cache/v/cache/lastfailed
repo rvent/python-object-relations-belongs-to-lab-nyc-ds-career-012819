@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 {}
+=======
+{
+  "test/index_test.py::TestQueryPersonClassMethods::test_car_property_methods": true,
+  "test/index_test.py::TestQueryPersonClassMethods::test_cars_driven_by_class_method": true,
+  "test/index_test.py::TestQueryPersonClassMethods::test_drives_a_class_method": true,
+  "test/index_test.py::TestQueryPersonClassMethods::test_drives_same_make_as_me_instance_method": true,
+  "test/index_test.py::TestQueryPersonClassMethods::test_has_oldest_car_class_method": true,
+  "test/index_test.py::TestQueryPersonClassMethods::test_person_property_methods": true
+}
+>>>>>>> 5bfc5fb85a2ba51926be7a8113c21fad31b2c7da
